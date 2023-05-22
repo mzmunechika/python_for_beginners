@@ -60,4 +60,4 @@ print("Hello, World!")
 ...
 ```
 
-[Pelajaran Berikutnya](./3_comments.md)
+[Pelajaran Berikutnya](./3_comments_and_variable.md)
