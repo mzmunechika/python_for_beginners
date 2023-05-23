@@ -1,4 +1,30 @@
-# Flow/Alur
+## Starting The Game
+
+1. clone repositori ini:
+
+```bash
+git clone https://github.com/mzmunechika/python_for_beginners.git
+```
+
+Jika anda menggunakan ssh:
+
+```bash
+git clone git@github.com:mzmunechika/python_for_beginners.git
+```
+
+2. buat branch baru dengan nama anda, contoh:
+
+```bash
+git checkout -b rie
+```
+
+3. kerjakan soalnya
+
+## How to learn from here (Cara belajar dari sini)
+
+Langsung aja mulai dari [sini](./day_1/1_get_started.md)
+
+## Flow (Alur)
 
 `main` :
 
@@ -57,7 +83,3 @@ C --> E[checkout -b branch2]
 D --> F[push origin branch1]
 E --> G[push origin branch2]
 ```
-
-## How to learn from here (Cara belajar dari sini)
-
-Langsung aja mulai dari [sini](./day_1/1_get_started.md)
