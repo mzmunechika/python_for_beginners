@@ -60,7 +60,7 @@ git clone https://github.com/mzmunechika/python_for_beginners.git
 ```
 
 ```bash
-#clone repositori ini jika kalian mengguanak ssh:
+#clone repositori ini jika kalian menggunakan ssh:
 git clone git@github.com:mzmunechika/python_for_beginners.git
 ```
 
@@ -68,11 +68,43 @@ git clone git@github.com:mzmunechika/python_for_beginners.git
 5. Langsung buat branch[^4] dengan menjalankan perintah:
 
 ```bash
-git checkout -b NAMA_BRANCH_KAMU
+git checkout -b nama_branch_kamu
 ```
 
 6. Buka Visual Studio Code milikmu.
-7. Pahami materi dan selesaikan tugasnya
+7. Pahami materi dan selesaikan tugasnya.
+
+## Jalan Ketika Kamu Stuck/Kesulitan
+
+1. Buka `issue` di repositori yang kamu pilih
+   ![issue](https://i.imgur.com/QUSAyWl.jpg)
+
+2. Klik `New issue`
+   ![New issue](https://i.imgur.com/HteFutf.png)
+
+3. Berikan judul, format judul seperti ini:
+
+```bash
+day <hari_berapa>.<tugas_no_berapa>
+```
+
+![gimme some title](https://i.imgur.com/MboX2lE.png)
+
+4. Berikan deskripsi, format deskripsi seperti ini:
+
+> Karena contoh di atas adalah tugas no 2, maka kita salin soal yang kurang paham di tugas no 2. Kita ambil contoh soal no 6.
+
+```bash
+<soal>
+```
+
+![desc](https://i.imgur.com/ffXRQgI.png)
+
+5. Setelah itu, berikan `Assignees`nya:
+
+> Jika itu akun kalian, ya pilih akun kalian.
+
+![assg](https://i.imgur.com/ledUkAv.png)
 
 ## Alur Kerja
 
