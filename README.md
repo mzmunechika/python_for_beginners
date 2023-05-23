@@ -48,8 +48,8 @@ Seperti apa yang telah dijelaskan, ini adalah sebuah permainan **100 Days of Cod
 
 1. Kamu bisa pergi kesini:
 
-| [Hari Pertama - Get Started](./day_1/1_get_started.md) |
-| ------------------------------------------------------ |
+| [Day 1 - The Context of Software Development](./day_1/1_the_context_of_software_development.md) |
+| ----------------------------------------------------------------------------------------------- |
 
 2. Masuk kedalam folder di mana anda akan menyimpan projek ini
 3. Lakukan clone repositori

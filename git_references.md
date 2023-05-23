@@ -14,9 +14,9 @@ git@github.com:nama_akun/nama_repositori.git
 
 ## Sebelum Membuat Perubahan Pada File Setelah Melakukan Cloning
 
-Sebelum membuat peruahan pada file yang akan dipush setelah kamu melakukan cloning, kamu harus cek branch kamu terlebih dahulu, apakah kamu sudah berada pada branch kamu atau belum?
+Sebelum membuat perubahan pada file yang akan dipush setelah kamu melakukan cloning, kamu harus cek branch kamu terlebih dahulu, apakah kamu sudah berada pada branch kamu atau belum?
 
-Oh iya, kita akan menggunakan syntax/simbol `&&` untuk sekaligus menjalankan 2 perintah. <span style="text-decoration:underline">Perintah pertama</span> untuk update branch jarak jauh, dan <span style="text-decoration:underline">perintah kedua</span> untuk melihat seluruh branch yang telah di push, jalankan perintahnya:
+Oh iya, kita akan menggunakan syntax/simbol `&&` untuk sekaligus menjalankan 2 perintah. <span style="text-decoration:underline">Perintah pertama</span> untuk update branch jarak jauh, dan <span style="text-decoration:underline">perintah kedua</span> untuk melihat seluruh branch yang telah dipush, jalankan perintahnya:
 
 > Ketika kamu melihat branch yang berwarna hijau, tandanya kamu sedang berada di branch tersebut.
 
@@ -44,7 +44,7 @@ Ketika kamu telah selesai melakukan satu sesi tugas, dan kamu ingin melakukan pu
 git status
 ```
 
-Tambahkan file yang telah dirubah untuk di push, jalankan perintahnya:
+Tambahkan file yang telah diubah untuk dipush, jalankan perintahnya:
 
 > Ini adalah teknik menambahkan file satu-persatu, biasanya saya sering melakukan ini untuk menambahkan commit yang berbeda.
 
