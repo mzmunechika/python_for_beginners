@@ -4,11 +4,8 @@
 
 ```bash
 git clone https://github.com/mzmunechika/python_for_beginners.git
-```
 
-Jika anda menggunakan ssh:
-
-```bash
+# Jika anda menggunakan ssh:
 git clone git@github.com:mzmunechika/python_for_beginners.git
 ```
 
