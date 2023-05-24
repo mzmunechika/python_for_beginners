@@ -85,7 +85,7 @@ git checkout -b nama_branch_kamu
 3. Berikan judul, format judul seperti ini:
 
 ```bash
-day <hari_berapa>.<tugas_no_berapa>
+day <hari_berapa>.<no_materi>
 ```
 
 ![gimme some title](https://i.imgur.com/MboX2lE.png)
@@ -95,7 +95,7 @@ day <hari_berapa>.<tugas_no_berapa>
 > Karena contoh di atas adalah tugas no 2, maka kita salin soal yang kurang paham di tugas no 2. Kita ambil contoh soal no 6.
 
 ```bash
-<soal>
+<no_soal>
 ```
 
 ![desc](https://i.imgur.com/ffXRQgI.png)
@@ -106,10 +106,18 @@ day <hari_berapa>.<tugas_no_berapa>
 
 ![assg](https://i.imgur.com/ledUkAv.png)
 
+6. Kemudian berikan `labels` yang sesuai:
+
+> Karena ingin mempinta bantuan, jadi pilih label `help wanted`
+
+![labels](https://i.imgur.com/rTYGPir.png)
+
+7. Setelah itu kirim `issue`
+
 ## Alur Kerja
 
 ```mermaid
-flowchart TD
+flowchart LR
 M[main] -- start here --> A[clone] --> B[computer A]
 A --> C[computer B]
 B --> D[checkout -b branch1]

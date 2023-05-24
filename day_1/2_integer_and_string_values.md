@@ -61,5 +61,5 @@ Tolong perhatikan dan ikuti intruksi dengan benar.
 
 Pelajaran berikutnya:
 
-| [Day 1 - Values and Variables](./2_values_and_variables.md) |
-| ----------------------------------------------------------- |
+| [Day 1 - Values and Variables](./2_integer_and_string_values.md) |
+| ---------------------------------------------------------------- |
