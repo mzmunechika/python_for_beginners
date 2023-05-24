@@ -39,6 +39,8 @@ Penulis akan selalu berusaha untuk update perharinya.
 
 2. Harus (setidaknya) memahami perintah Git[^3]. Jika belum memahaminya, bisa lihat referensi yang telah dibuat:
 
+> Sering-sering liat referensi ini. Ini akan selalu dipakai setiap mengerjakan tugas.
+
 | [Referensi Perintah Git](./git_references.md) |
 | --------------------------------------------- |
 
